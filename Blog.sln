@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog", "Blog\Blog.csproj", "{FDB7177C-CA1F-4912-A2D6-5016688B1150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL", "..\MySQL\MySQL.csproj", "{B9530FEE-31E3-4550-B7D0-2AAF0CEC2304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB7177C-CA1F-4912-A2D6-5016688B1150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB7177C-CA1F-4912-A2D6-5016688B1150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB7177C-CA1F-4912-A2D6-5016688B1150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB7177C-CA1F-4912-A2D6-5016688B1150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9530FEE-31E3-4550-B7D0-2AAF0CEC2304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9530FEE-31E3-4550-B7D0-2AAF0CEC2304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9530FEE-31E3-4550-B7D0-2AAF0CEC2304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9530FEE-31E3-4550-B7D0-2AAF0CEC2304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A08DCE-AE0E-49F3-AA4F-D2635DFA0306}
+	EndGlobalSection
+EndGlobal
